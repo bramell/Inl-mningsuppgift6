@@ -1,5 +1,6 @@
 import MovieList from './MovieList';
 
+// The main module
 function App() {
   return (
     <div className="App">
