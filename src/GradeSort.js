@@ -1,6 +1,6 @@
 import React from 'react'
 
-// Module for sorting by grade, this is referenced in MovieList.js at ln: 80.
+// Module for sorting by grade, this is referenced in MovieList.js at ln: 103.
 export default function GradeSort(props) {
 
     // The sort method compares a to b and sort the content depending en the returned value.
